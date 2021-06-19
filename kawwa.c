@@ -10,6 +10,7 @@ int fact(int num){
 
 int main(){
     printf("%d",fact(20));
+    printf("Pagla");
     return 0;
 }
 
